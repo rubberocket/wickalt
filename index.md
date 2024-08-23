@@ -1,5 +1,5 @@
 # Wick Editor Alternatives List
-A comprehensive list of Wick Editor alternatives that are free or paid.
+A comprehensive list of Wick Editor alternatives that are free or paid. Contribute [by clicking here](https://github.com/rubberocket/wickalt/edit/main/index.md).
 
 ## Keys
 
